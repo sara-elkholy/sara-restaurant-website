@@ -150,7 +150,7 @@ header .icons #menuBar{
     flex-wrap: wrap;
     align-items: center;
     gap: 2rem;
-    padding-top: 20rem;
+    padding-top: 10rem;
 }
 .home .homeSlide .slide .content{
     flex: 1 1 45rem;
