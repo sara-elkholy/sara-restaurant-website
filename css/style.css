@@ -417,5 +417,7 @@ background: #eee;
        margin: 1rem;
        background: #eee;
    }
-   
+  .home .homeSlide .slide .content h3{
+    font-size: 4rem;
+   }  
 }
